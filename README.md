@@ -121,7 +121,7 @@ This project helps you understand:
 
 Watch the full tutorial on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/q4h5ozMGdnI/0.jpg)](https://youtu.be/q4h5ozMGdnI)
 
 In this video, you will see:
 - Full wiring setup  
